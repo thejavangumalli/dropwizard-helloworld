@@ -1,6 +1,6 @@
 dropwizard-helloworld
 =====================
-
+#run the maven command
 $ mvn clean package
 
 $ bin/run.sh 
